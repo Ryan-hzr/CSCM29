@@ -1,4 +1,4 @@
-What is this repository for?T
+What is this repository for?
 
 This repository contains the code used in the labs for CSCM29, 2021/22, in Computer Science at Swansea University
 
