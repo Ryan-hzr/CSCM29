@@ -1,13 +1,19 @@
-What is this repository for?
+# README #
 
-This repository contains the code used in the labs for CSCM29, 2021/22, in Computer Science at Swansea University
+### What is this repository for? ###
 
-Version 1
-How do I get set up?
-Copy the code
-run java
-fill in the missing parts.
+* This repository contains the code used in the labs for CSCM29, 2020/21, in Computer Science
+*   at Swansea University
+* Version 1
 
-Contribution guidelines
-Who do I talk to?
-owner a.g.setzer@swansea.ac.uk
+### How do I get set up? ###
+
+* Copy the code
+* run java
+* fill in the missing parts.
+
+### Contribution guidelines ###
+
+### Who do I talk to? ###
+
+* owner a.g.setzer@swansea.ac.uk
